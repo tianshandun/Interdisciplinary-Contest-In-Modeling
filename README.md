@@ -12,6 +12,11 @@ the carbon sequestration of forests and forest products over time and assessing 
 of forests. We are expected to consider the benefits derived from forests in as many ways as possible
 and provide forest managers with the best forest management plan for certain forest.
 
+> 森林碳汇在缓解气候变化的影响方面发挥着重要作用。森林碳汇有两种类型：植物碳汇和林产品碳汇。
+> 对于森林管理者来说，如何根据这两个方面制定最佳的森林管理计划已经成为一个挑战。
+> 本报告旨在开发一个模型来计算森林和林产品在一段时间内的碳固存量，并评估森林的综合水平。
+> 希望我们能尽可能多地考虑森林带来的效益并为森林管理者提供针对某些森林的最佳森林管理计划。
+
 For problem 1, we are primarily concerned with two aspects. The first is the dynamic
 calculation of carbon sequestration of plants and their products.And the second is the impact of
 harvesting management on the dynamic calculation. We use a logistic regression model. In
