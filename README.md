@@ -1,6 +1,6 @@
 # Interdisciplinary-Contest-In-Modeling
  All files include:
- 1. The official discription of problem E
+ 1. The official description of problem E
  2. The whole PDF solution
  3. The certificate of achievement of Meritorious Winner
 # The summary overview
